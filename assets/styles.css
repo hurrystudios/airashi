@@ -81,3 +81,14 @@ body {
   padding: 10px;
   border-radius: 5px;
 }
+
+.footer-title {
+  font-weight: 600;
+  color: #1f2937;
+}
+
+.footer-subtitle {
+  color: #6b7280;
+  font-size: 0.875rem;
+}
+
